@@ -32,9 +32,11 @@ This project aims to analyze pizza orders data to derive insights such as total 
 
 ---------------------------------------------------------------------------
 # Data Understanding with some snapchots
+
 -Calculate the percentage contribution of each pizza type to total revenue.
 ![image](https://github.com/user-attachments/assets/8e776c16-5fc7-4203-98f9-7b4fa90f5414)
--
+
+-Group the orders by date and calculate the average number of pizzas ordered per day.
 ![image](https://github.com/user-attachments/assets/297f0c01-0a23-4251-ae2b-1ea6cf9ca52e)
 
 -Determine the top 3 most ordered pizza types based on revenue.
